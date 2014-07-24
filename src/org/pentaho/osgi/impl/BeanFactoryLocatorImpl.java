@@ -3,8 +3,8 @@ package org.pentaho.osgi.impl;
 import org.osgi.framework.Bundle;
 import org.osgi.framework.ServiceReference;
 import org.osgi.service.blueprint.container.BlueprintContainer;
-import org.pentaho.osgi.BeanFactory;
-import org.pentaho.osgi.BeanFactoryLocator;
+import org.pentaho.osgi.api.BeanFactory;
+import org.pentaho.osgi.api.BeanFactoryLocator;
 
 /**
  * User: nbaker

@@ -1,7 +1,7 @@
 package org.pentaho.osgi.impl;
 
 import org.osgi.service.blueprint.container.BlueprintContainer;
-import org.pentaho.osgi.BeanFactory;
+import org.pentaho.osgi.api.BeanFactory;
 
 /**
  * User: nbaker

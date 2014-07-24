@@ -4,7 +4,7 @@ import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
 import org.osgi.framework.ServiceReference;
 import org.osgi.service.cm.ConfigurationAdmin;
-import org.pentaho.osgi.BeanFactoryLocator;
+import org.pentaho.osgi.api.BeanFactoryLocator;
 
 /**
  * User: nbaker
