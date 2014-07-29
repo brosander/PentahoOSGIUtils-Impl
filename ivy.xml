@@ -16,6 +16,7 @@
   <dependencies defaultconf="default->default">
     <dependency org="pentaho-kettle" name="kettle-core" rev="${dependency.kettle.revision}"  conf="default->default" transitive="false" />
     <dependency org="pentaho-kettle" name="kettle-ui-swt" rev="${dependency.kettle.revision}"  conf="default->default" transitive="false" />
+    <dependency org="pentaho" name="pentaho-osgi-utils-api" rev="${dependency.pentaho.osgi.api.revision}"  conf="default->default" transitive="false" />
 
     <dependency org="org.apache.felix" name="org.apache.felix.framework" rev="${dependency.felix.framework.revision}"  conf="default->default" />
     <dependency org="org.apache.felix" name="org.apache.felix.configadmin" rev="${dependency.felix.configadmin.revision}"  conf="default->default" />
